@@ -2,6 +2,12 @@ main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
 }
+
+body> main {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
 .sticky-nav {
     position: fixed;
     left: 0;
