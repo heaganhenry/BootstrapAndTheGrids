@@ -3,6 +3,11 @@ main>.container {
     margin-bottom: 5rem;
 }
 
+main>.container-fluid {
+    padding: 60px 15px 0;
+    margin-bottom: 5rem;
+}
+
 body> main {
     margin-top: 20px;
     margin-bottom: 60px;
