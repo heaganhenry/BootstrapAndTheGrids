@@ -1,2 +1,2 @@
 # BootstrapAndTheGrids
-Practicing various bootstrap grid layouts and breakpoints
+A mini website created using HTML and Bootstrap to practice various grid layouts
